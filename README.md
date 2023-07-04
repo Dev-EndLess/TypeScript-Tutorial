@@ -29,6 +29,27 @@
 
 ---
 
+#### 🚩 Chapter 3 - Type Assertion or Type Casting
+
+- Type Assertion or Type Casting - https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions
+
+- Unknow Type - https://www.typescriptlang.org/docs/handbook/2/functions.html#unknown
+
+- Non-Null Assertion - https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#non-null-assertion-operator-postfix-
+
+---
+
+#### 🚩 Chapter 4 - Index Signature
+
+- Index Signature - https://www.typescriptlang.org/docs/handbook/2/objects.html#index-signatures
+
+- Keyof - https://www.typescriptlang.org/docs/handbook/2/keyof-types.html#handbook-content
+
+- Record Utility Type - https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeys-type
+
+---
+
+
 ### 📚 Official Documentation
 
 ####  🔗  Typescript Official Website - https://www.typescriptlang.org/
