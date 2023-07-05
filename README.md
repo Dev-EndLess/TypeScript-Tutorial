@@ -49,6 +49,14 @@
 
 ---
 
+#### 🚩 Chapter 5 - Generics
+
+- Generics - https://www.typescriptlang.org/docs/handbook/2/generics.html#working-with-generic-type-variables
+
+- Typeof - https://www.typescriptlang.org/docs/handbook/2/typeof-types.html
+
+---
+
 
 ### 📚 Official Documentation
 
