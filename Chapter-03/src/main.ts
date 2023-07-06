@@ -1,3 +1,5 @@
+/* Type Assertion or Type Casting */
+
 type One = string
 type Two = string | number
 type Three = 'Hi Dude'
@@ -22,7 +24,7 @@ const myVal: string = addOrConcat(2, 2, 'concat') as string
 // Be careful! TS sees no problem - but a string is returned
 const nextVal: number = addOrConcat(2, 2, 'concat') as number
 
-//10 as string
+// 10 as string
 (10 as unknown) as string
 
 // The DOM 

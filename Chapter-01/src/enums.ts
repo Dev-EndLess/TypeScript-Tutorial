@@ -11,5 +11,6 @@ enum Grade {
   A,
 }
 
-console.log(Grade.U)
-console.log(Grade.D)
+console.log(Grade.U) // 0
+console.log(Grade.D) // 20
+console.log(Grade.C) // 21
