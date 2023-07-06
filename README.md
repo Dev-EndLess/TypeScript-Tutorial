@@ -57,6 +57,23 @@
 
 ---
 
+#### 🚩 Chapter 6 - Utility Types
+
+- Partial - https://www.typescriptlang.org/docs/handbook/utility-types.html#partialtype
+
+- Require - https://www.typescriptlang.org/docs/handbook/utility-types.html#requiredtype
+
+- Record - https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeys-type
+
+- Pick and Omit - https://www.typescriptlang.org/docs/handbook/utility-types.html#picktype-keys
+
+- Exclude and Extract - https://www.typescriptlang.org/docs/handbook/utility-types.html#excludeuniontype-excludedmembers
+
+- NonNullable - https://www.typescriptlang.org/docs/handbook/utility-types.html#nonnullabletype
+
+- Return Type - https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html#return-types-of-callbacks
+
+- Optional Parameters - https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html#optional-parameters-in-callbacks
 
 ### 📚 Official Documentation
 
