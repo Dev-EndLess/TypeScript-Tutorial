@@ -1,7 +1,9 @@
 # TypeScript Basics
 
 <p align="center"> Tutorial by <strong>Dave Gray </strong> 
-<img href="https://www.youtube.com/watch?v=MOO5vrtTUTE&list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b" width="28" height="20" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png">
+  <a href="https://www.youtube.com/watch?v=MOO5vrtTUTE&list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b">
+    <img width="28" height="20" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png">
+  </a>
 </p> 
 
 ## 📚 Index
